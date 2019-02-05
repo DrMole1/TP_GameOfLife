@@ -1,0 +1,12 @@
+Cycle : 124 Cellules vivantes : 3 Cellules mortes : 97
+Cycle : 32 Cellules vivantes : 1 Cellules mortes : 99
+Cycle : 30 Cellules vivantes : 8 Cellules mortes : 92
+Cycle : 26 Cellules vivantes : 4 Cellules mortes : 96
+Cycle : 5 Cellules vivantes : 0 Cellules mortes : 100
+Cycle : 26 Cellules vivantes : 4 Cellules mortes : 96
+Cycle : 26 Cellules vivantes : 4 Cellules mortes : 96
+Cycle : 1 Cellules vivantes : 0 Cellules mortes : 100
+Cycle : 7 Cellules vivantes : 0 Cellules mortes : 100
+Cycle : 4 Cellules vivantes : 0 Cellules mortes : 100
+Cycle : 38 Cellules vivantes : 8 Cellules mortes : 92
+Cycle : 32 Cellules vivantes : 0 Cellules mortes : 100

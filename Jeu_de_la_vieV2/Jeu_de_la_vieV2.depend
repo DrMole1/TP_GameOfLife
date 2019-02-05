@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1549353718 source:c:\users\basti\desktop\algo\c\jeu_de_la_viev2\jeuvie.c
+	"jeuvie.h"
+
+1549353718 c:\users\basti\desktop\algo\c\jeu_de_la_viev2\jeuvie.h
+	<stdio.h>
+	<stdlib.h>
+
+1549298836 source:c:\users\basti\desktop\algo\c\jeu_de_la_viev2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"jeuvie.h"
+	"figure.h"
+	"sauvegarde.h"
+
+1549353718 c:\users\basti\desktop\algo\c\jeu_de_la_viev2\figure.h
+	"jeuvie.h"
+	<stdlib.h>
+	<time.h>
+
+1549353718 source:c:\users\basti\desktop\algo\c\jeu_de_la_viev2\figure.c
+	"figure.h"
+
+1549353718 source:c:\users\basti\desktop\algo\c\jeu_de_la_viev2\sauvegarde.c
+	"sauvegarde.h"
+
+1549353718 c:\users\basti\desktop\algo\c\jeu_de_la_viev2\sauvegarde.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1548934377 source:c:\users\basti\desktop\ludus\algo\c\jeu_de_la_viev2\jeuvie.c
+	<stdio.h>
+	<stdlib.h>
+	"jeuvie.h"
+
+1549281063 c:\users\basti\desktop\ludus\algo\c\jeu_de_la_viev2\jeuvie.h
+
+1548934377 source:c:\users\basti\desktop\ludus\algo\c\jeu_de_la_viev2\sauvegarde.c
+	<stdio.h>
+	<stdlib.h>
+	"sauvegarde.h"
+	<string.h>
+
+1548934377 c:\users\basti\desktop\ludus\algo\c\jeu_de_la_viev2\sauvegarde.h
+
+1548950441 source:c:\users\basti\desktop\ludus\algo\c\jeu_de_la_viev2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"jeuvie.h"
+	"figure.h"
+	"sauvegarde.h"
+
+1549285214 c:\users\basti\desktop\ludus\algo\c\jeu_de_la_viev2\figure.h
+	"jeuvie.h"
+
